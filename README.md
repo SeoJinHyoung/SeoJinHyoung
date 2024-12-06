@@ -39,24 +39,11 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <span
-    style="display: inline-block; background-color: white; color: black; padding: 10px 20px; border-radius: 5px; font-family: Arial, sans-serif; font-size: 14px; cursor: pointer;"
-    onclick="window.open('https://seojinhyoung.github.io/', '_blank')"
-  >
+ <a href="https://seojinhyoung.github.io/">
+    <img src="https://img.shields.io/badge/Blog-white?style=for-the-badge&logo=github&logoColor=white&label=github" />&nbsp
+  </a>
+  <a href="mailto:tjwlssla1@gachon.ac.kr">
     <img
-      src="https://img.shields.io/badge/Blog-white?style=for-the-badge&logo=github&logoColor=white&label=github"
-      alt="Blog"
-      style="vertical-align: middle;"
-    />
-  </span>
-  <span
-    style="display: inline-block; background-color: #D14836; color: white; padding: 10px 20px; border-radius: 5px; font-family: Arial, sans-serif; font-size: 14px; cursor: pointer;"
-    onclick="window.open('mailto:tjwlssla1@gachon.ac.kr')"
-  >
-    <img
-      src="https://img.shields.io/badge/tjwlssla1@gachon.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-      style="vertical-align: middle;"
-    />
-  </span>
+      src="https://img.shields.io/badge/tjwlssla1@gachon.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
 </div>
